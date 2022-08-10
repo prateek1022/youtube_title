@@ -16,7 +16,7 @@ const youtube = google.youtube("v3");
 const VIDEO_ID = "_fw56ESaTkI";
 
 
-cron.schedule('*/59 * * * *', function() {
+cron.schedule('*/10 * * * * *', function() {
   
 
   // Load client secrets from a local file.
