@@ -7,6 +7,14 @@
     "start": "node index.js",
     "build": "webpack"
   },
+  "engines": {
+    "node": "16.16.0",
+    "npm": "8.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek1022/youtube_title.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
